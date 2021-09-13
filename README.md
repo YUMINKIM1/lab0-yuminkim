@@ -1,1 +1,2 @@
-# lab0-yuminkim
+fisrt repository work
+hello-word
